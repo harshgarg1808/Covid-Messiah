@@ -45,9 +45,9 @@ def reply():
 			response=nlp.natlangpro(tweet.full_text)
 			leads=search.searchTweets(response[1:])
 			for x in leads:
-				# api.update_status('@' + tweet.user.screen_name + " " + x,tweet.id)
+				api.update_status('@' + tweet.user.screen_name + " " + x,tweet.id)
 				print(x)
-			# store_last_seen(FILE_NAME,tweet.id)
+			store_last_seen(FILE_NAME,tweet.id)
 			print("replied to " + tweet.user.screen_name)
 	
 while True:
