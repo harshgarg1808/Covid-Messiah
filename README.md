@@ -7,10 +7,10 @@
 ## 📸 Screenshots
 
 ### Overview
-<img src="./Covid-Messiah/covid_messiah.png" alt="Covid Messiah Overview" width="600">
+![Live Data Tracking](./Covid-Messiah/covid_messiah.png)
 
 ### How It Works
-<img src="./Covid-Messiah/working.png" alt="Working of Covid Messiah" width="300">
+![Live Data Tracking](./Covid-Messiah/working.png)
 
 ---
 
@@ -46,8 +46,6 @@
 
 ---
 
-
----
 ## 🌟 Hackathon Highlights
 
 - Solved a real-world problem during the pandemic, making a positive impact on society.
