@@ -4,15 +4,6 @@
 
 ---
 
-## 🚀 Key Features
-
-- 🏆 **Ranked 4th** in a Hackathon with 200+ teams.
-- 📊 **Generated over 5000+ verified COVID leads** on Twitter.
-- 🤖 **Deployed an NLP model** using Google Dialogflow to process user tweets and reply with relevant information.
-- 🧰 **Tech Stack**: Twitter API, Dialogflow, Python, Google Cloud.
-
----
-
 ## 📸 Screenshots
 
 ### Overview
@@ -20,6 +11,15 @@
 
 ### How It Works
 <img src="./Covid-Messiah/working.png" alt="Working of Covid Messiah" width="300">
+
+---
+
+## 🚀 Key Features
+
+- 🏆 **Ranked 4th** in a Hackathon with 200+ teams.
+- 📊 **Generated over 5000+ verified COVID leads** on Twitter.
+- 🤖 **Deployed an NLP model** using Google Dialogflow to process user tweets and reply with relevant information.
+- 🧰 **Tech Stack**: Twitter API, Dialogflow, Python, Google Cloud.
 
 ---
 
