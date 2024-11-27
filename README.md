@@ -13,12 +13,13 @@
 
 ---
 
-## 💡 How It Works
+## 📸 Screenshots
 
-1. Users tweet their requirements (e.g., "Looking for oxygen cylinders in Delhi").
-2. The NLP model, powered by **Dialogflow**, processes the tweet to extract the key information.
-3. Using the **Twitter API**, the system fetches verified COVID leads matching the user's needs.
-4. A helpful tweet is generated in the reply section with the required information.
+### Overview
+<img src="./Covid-Messiah/covid_messiah.png" alt="Covid Messiah Overview" width="600">
+
+### How It Works
+<img src="./Covid-Messiah/working.png" alt="Working of Covid Messiah" width="300">
 
 ---
 
@@ -45,12 +46,8 @@
 
 ---
 
-## 📸 Screenshots
-
-*Coming Soon!*
 
 ---
-
 ## 🌟 Hackathon Highlights
 
 - Solved a real-world problem during the pandemic, making a positive impact on society.
